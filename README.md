@@ -1,2 +1,1 @@
-# customuser-test
 # django-reservation
