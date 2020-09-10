@@ -73,6 +73,11 @@ main {
     grid-template-columns: repeat(2, 1fr);
 }
 
+/* mypage */
+.mypage img {
+    height: 150px;
+    object-fit: contain;
+}
 
 
 /* ---------- accounts ---------- */
